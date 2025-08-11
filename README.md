@@ -15,6 +15,16 @@ Python Full Stack Developer | Cloud Enthusiast | Open Source Contributor
     🌱 Currently pursuing a Python Full Stack course with Integration A and DSA
     🎯 Interests: Full stack development, automation, APIs, DevOps
     ✨ Love collaborating on open-source projects and sharing knowledge
+## 💼 Projects
+
+### [Project Name 1](https://github.com/ajayguntru/project1)  
+A web app built with React and Django that allows users to track their daily tasks.
+
+### [Project Name 2](https://github.com/ajayguntru/project2)  
+Automation scripts using Python to simplify data processing and report generation.
+
+### [Project Name 3](https://github.com/ajayguntru/project3)  
+A portfolio website built with Next.js and hosted on GitHub Pages.
 
 
 ## 🛠️ Tech Stack
