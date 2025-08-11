@@ -1,4 +1,12 @@
 # 👋 Hello! I'm Ajay Guntru  
+![GitHub followers](https://img.shields.io/github/followers/ajayguntru?label=Follow&style=social)  
+![Twitter Follow](https://img.shields.io/twitter/follow/ajayguntru?style=social)  
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-20.10-blue?logo=docker&logoColor=white)  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2.3.8-black?logo=githubactions&logoColor=white)  
+
 Python Full Stack Developer | Cloud Enthusiast | Open Source Contributor
 
 ## 🚀 About Me
